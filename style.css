@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+img {
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(218, 212, 212)
+}
+figcaption {
+  text-align: center;
+  font-size: 0.8em;
+}
+#featured-property {
+  width: 800px;
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 20%;
+}
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 20%;
+}
+figure {
+  text-align: center;
+}
+section#details div {
+  float: left;
+  width: 25%;
+  background-color: rebeccapurple;
+  text-align: center;
+}
